@@ -1,0 +1,41 @@
+h1{
+    background:linear-gradient(to left, blue ,red);
+    color: black;
+    text-overflow: 2px 2px 4px rgba(0,0,0, 0.5);
+    text-align: center;
+}
+
+body {
+  background-image:url("ceppp.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contaner {
+  font-family: Arial, helvetica, Sans-Serif;
+  font-size: 15px;
+  font-weight: blod;
+  color: white;
+}
+
+.link {
+  color: blue;
+}
+
+.audio {
+  text-align: center;
+}
+
+.button-contaner {
+  display: flax;
+  gap: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  
+}
+
+.copy {
+  color: black;
+  font-weight: blod;
+  text-align: center;
+}
